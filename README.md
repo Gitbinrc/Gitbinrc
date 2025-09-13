@@ -1,5 +1,7 @@
 # 👋 欢迎来到 Gitbinrc 
-组织地址：![binrc](https://github.com/binrchq)
+
+组织地址：[binrc](https://github.com/binrchq)
+
 Gitbinrc 是一个以 **研究驱动** 为核心的开发与实验小组，致力于探索和推动以下方向的技术边界：
 
 - 📡 **网络流量调度与智能路由**
@@ -32,7 +34,7 @@ Gitbinrc 是一个以 **研究驱动** 为核心的开发与实验小组，致�
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=binrclab&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gitbinrc&show_icons=true&theme=transparent)
 
 ---
 
